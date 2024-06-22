@@ -10,7 +10,7 @@ This project is a 3D slider window created using HTML and CSS only. It leverages
 
 ## Demo
 
-Check out the live demo [here](https://3-d-slider-nx548se3n-ayyan-ahmeds-projects.vercel.app/)
+Check out the live demo [here](https://3-d-slider-beryl.vercel.app/)
 
 ## Usage
 
